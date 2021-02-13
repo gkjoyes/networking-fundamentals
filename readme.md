@@ -1,6 +1,7 @@
 # Networking Fundamentals
 
-- 01: Basic Networking
+- [01: Basic Networking](https://github.com/gkjoyes/networking-fundamentals/blob/main/01/basic-networking.md)
+
   - [What is networking?](https://github.com/gkjoyes/networking-fundamentals/blob/main/01/basic-networking.md#what-is-networking)
   - [Type of Networks](https://github.com/gkjoyes/networking-fundamentals/blob/main/01/basic-networking.md#different-types-of-networks)
   - [How do we make connections?](https://github.com/gkjoyes/networking-fundamentals/blob/main/01/basic-networking.md#how-do-we-make-connections)
